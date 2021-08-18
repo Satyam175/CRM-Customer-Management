@@ -9,7 +9,7 @@
 
 C:/Users/Home/SpringSecurity/CRM-with-Login-Authentication/src/main/resources/persistence-mysql.properties</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/web_customer_tracker?useSSL=false</jdbc-url>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>

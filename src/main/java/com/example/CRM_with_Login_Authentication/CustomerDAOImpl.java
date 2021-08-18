@@ -25,9 +25,6 @@ public class CustomerDAOImpl implements CustomerDAO {
 
 
         switch (theSortField) {
-            case SortUtils.FIRST_NAME:
-                theFieldName = "firstName";
-                break;
             case SortUtils.LAST_NAME:
                 theFieldName = "lastName";
                 break;

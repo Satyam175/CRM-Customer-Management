@@ -85,5 +85,10 @@
     <orderEntry type="library" name="Maven: org.hibernate.validator:hibernate-validator:6.0.7.Final" level="project" />
     <orderEntry type="library" name="Maven: javax.validation:validation-api:2.0.1.Final" level="project" />
     <orderEntry type="library" name="Maven: javax.xml.bind:jaxb-api:2.3.0" level="project" />
+    <orderEntry type="library" name="antlr-2.7.7" level="application" />
+    <orderEntry type="library" name="classmate-1.5.1" level="application" />
+    <orderEntry type="library" name="hibernate-validator-6.2.0.Final" level="application" />
+    <orderEntry type="library" name="mysql-connector-java-8.0.25" level="application" />
+    <orderEntry type="library" name="spring-aop-5.3.8-javadoc" level="application" />
   </component>
 </module>

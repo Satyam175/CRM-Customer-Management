@@ -4,7 +4,6 @@ import java.util.List;
 
 public interface CustomerDAO {
 
-
     List<Customer> getCustomers(int theSortField);
 
     void saveCustomer(Customer tempCustomer) ;

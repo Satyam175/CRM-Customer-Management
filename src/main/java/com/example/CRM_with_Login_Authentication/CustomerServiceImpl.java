@@ -18,8 +18,6 @@ public class CustomerServiceImpl implements CustomerService{
         customerDAO.saveCustomer(theCustomer);
     }
 
-
-
     @Override
     @Transactional
     public List<Customer> getCustomers(int theSortField) {
@@ -43,6 +41,5 @@ public class CustomerServiceImpl implements CustomerService{
     public List<Customer> searchCustomer(String theSearchName) {
         return customerDAO.searchCustomers(theSearchName);
     }
-
 
 }
